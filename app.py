@@ -9,7 +9,7 @@ Select the function from the given options:
 1. Add
 2. Subtract
 3. Multiplication
-4. Area
+4. Division
 """)
     
     user_input = input("Select the function: ")
